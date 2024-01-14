@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.Text;
 
-namespace Math
+namespace Maths
 {
     public class BasicMath
     {
