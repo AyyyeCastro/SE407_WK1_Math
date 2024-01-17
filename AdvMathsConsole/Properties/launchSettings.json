@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AdvMathsConsole": {
+      "commandName": "Project",
+      "commandLineArgs": "pt 3 5"
+    }
+  }
+}
